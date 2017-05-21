@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TicTacToeView">
+        <attr name="lineColor" format="color" />
+        <attr name="lineSize" format="dimension" />
+        <attr name="markColor" format="color" />
+    </declare-styleable>
+</resources>
